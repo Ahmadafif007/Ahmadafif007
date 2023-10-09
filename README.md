@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and learning something new
 - 🎓 &nbsp; Studying Software Engineering in Institut Teknologi Telkom Purwokerto
 - 💼 &nbsp; Working as a Freelancer
-- 🌱 &nbsp; Learning more about Web Developer
+- 🌱 &nbsp; Learning more about Web Development
 - ✍️ &nbsp; Pursuing Website Development and Travelling as Hobbies
 
 <h3>💬 Social Media &nbsp;</h3>
