@@ -46,4 +46,12 @@
   ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
   ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
   ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-  
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/Ahmadafif007">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmadafif007&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
